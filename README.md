@@ -103,11 +103,13 @@ Este projeto demonstra:
 
 ---
 
+---
+
+---
+
 ## 👨‍💻 Autor
 
-Desenvolvido por **Marcos Rafael Alves**
+**Marcos Rafael Alves** QA | Java | Spring Boot | APIs REST | Segurança com JWT  
 
-Backend Developer em formação, com experiência em Qualidade de Software (QA), focado em boas práticas, organização de código e construção de APIs seguras e escaláveis com Java e Spring Boot.
 
-🔗 GitHub: https://github.com/rafaelAlvesQaTester  
-🔗 LinkedIn: (https://www.linkedin.com/in/marcos-rafael-alves-162368122/)
+
